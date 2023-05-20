@@ -1,0 +1,1 @@
+# chartgpt-plugin
